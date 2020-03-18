@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: aquamarine;
+}
+
+/* Header Sectiion */
+
+header {
+  font-weight: normal;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 50px;
+}
+
+/* Banner Section */
+
+.banner .img-container {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+/* Main Section */
+.main {
+  text-align: center;
+}
+.main h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.main h4 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+
+/* Footer Section */
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  padding: 20px 0px;
+}
+
+footer .align-right {
+  text-align: right;
+  padding: 10px 0px;
+  color: gray;
+}
